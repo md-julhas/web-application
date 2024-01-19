@@ -1,1 +1,7 @@
-Here is the details about the file
+This project about the developer's applications of the web industries. 
+
+Core Programs: 
+* Login system 
+* Authentications
+* Developer Mode 
+* Fundamentals of web 
